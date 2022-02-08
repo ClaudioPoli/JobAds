@@ -9,8 +9,11 @@ Design and implementation of a database relating to ads placed on the Glassdoor 
 -Operations: implementation of user operations regarding the management and analysis of data relating to the ads on the platform, their geographical position and the reviews associated with them through QL.
 
 Programming languages: SQL, Python
+
 Software: draw.io [Conceptual / Logical Design], Datagrip [SQL IDE], Pycharm [Python IDE], GATE [NLP]
+
 DBMS: PostgreSQL (PostGIS - geographic extension)
+
 Pipeline NLP: Corpus PMI extraction, NER, Corpus Augmented TF-IDF / KyotoDomainRelevance extraction
 
 Data source: 'https://www.kaggle.com/andresionek/data-jobs-listings-glassdoor'
